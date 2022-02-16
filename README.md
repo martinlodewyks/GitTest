@@ -1,2 +1,2 @@
 #MyApp
-This is GitTest
+This is Git
